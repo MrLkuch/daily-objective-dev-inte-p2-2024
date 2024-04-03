@@ -18,7 +18,7 @@ Benjamin
     - [x] Tableaux
     - [x] Liens
   - [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
-- [ ] Comprendre l'intérêt des raccourcis clavier
+- [X] Comprendre l'intérêt des raccourcis clavier
   - [x] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
     - [x] Navigateur (fenêtres, onglets, navigation, etc …)
     - [x] Terminal (fenêtres, onglets, commandes)
