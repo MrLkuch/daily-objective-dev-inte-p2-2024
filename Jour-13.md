@@ -12,9 +12,9 @@ Hachemi
   - [x] Installation et connexion
   - [x] Faire le tour du propriétaire
   - [x] Intégration de `gh` dans son workflow
-  - [ ] Finalisation de son profile Github
+  - [x] Finalisation de son profile Github
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow (pour ceux qui ont travaillé sur autre chose la semaine précédente)
+- [x] Découvrir Gitflow (pour ceux qui ont travaillé sur autre chose la semaine précédente)
   - [ ] Créer un cheat sheet sur Gitflow (individuel)
