@@ -30,4 +30,4 @@ Hachemi
   - [x] Découvrir le principe de parents/enfants
   - [x] Découvrir le HTML5 sémantique
 - [x] Comprendre la différence entre les liens relatifs et liens absolus
-- [ ] Créer sa première page HTML
+- [x] Créer sa première page HTML
